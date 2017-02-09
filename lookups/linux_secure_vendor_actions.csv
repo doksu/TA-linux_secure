@@ -6,6 +6,7 @@ Invalid user,failure
 Received disconnect,success
 Postponed,unknown
 closed,success
+failed,failure
 failure,failure
 fails,failure
 failures,failure
