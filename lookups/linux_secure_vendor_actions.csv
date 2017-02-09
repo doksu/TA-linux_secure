@@ -1,0 +1,15 @@
+vendor_action,action
+Accepted,success
+Authorized,success
+Failed,failure
+Invalid user,failure
+Received disconnect,success
+Postponed,unknown
+closed,success
+failure,failure
+fails,failure
+failures,failure
+invalid user,failure
+opened,success
+success,success
+succeeds,success
