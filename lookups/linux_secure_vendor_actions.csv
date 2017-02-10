@@ -1,6 +1,7 @@
 vendor_action,action
 Accepted,success
 Authorized,success
+Disconnecting,failure
 Failed,failure
 Invalid user,failure
 Received disconnect,success
