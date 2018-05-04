@@ -1,6 +1,8 @@
 vendor_action,action
 Accepted,success
 Authorized,success
+Did not receive identification string,failure
+Disconnected,unknown
 Disconnecting,failure
 Failed,failure
 Invalid user,failure
